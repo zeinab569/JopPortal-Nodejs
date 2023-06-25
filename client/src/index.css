@@ -1,0 +1,24 @@
+/* 
+--------------------
+    color codes
+--------------------
+#a08c5b - light golden (Logo)
+#181510 - Black
+#d4af37 - dark Golden
+#e9dbbd - lighter       
+*/
+
+/* ======= CSS RESET =======  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
